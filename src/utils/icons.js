@@ -15,7 +15,15 @@ import bolsa from '../assets/imgs/Bolsa-cerrada.png'
 import bolsa2 from '../assets/imgs/bolsa-mercado.png'
 import bolsa3 from '../assets/imgs/bolsa-market-2.png'
 import helado from '../assets/imgs/icecream.png'
+import helados from '../assets/imgs/slider-images/helado.png'
+import farmacia from '../assets/imgs/slider-images/farmacia.png'
+import mascotas from '../assets/imgs/slider-images/mascotas.png'
+import retiro_en_local from '../assets/imgs/slider-images/retiro_en_local.png'
+import bebidas from '../assets/imgs/slider-images/bebidas.png'
+import cafe_y_deli from '../assets/imgs/slider-images/cafe_y_deli.png'
+import tiendas from '../assets/imgs/slider-images/tiendas.png'
+// import second from '../assets/imgs/slider-images/'
 
-const icons={bolsa3, helado ,bolsa2,bolsa ,burguer ,megaphone, search, adress, auris, cupon, heart, gift, home, information, miCuenta, carta, store}
+const icons={bolsa3, helado ,bolsa2,bolsa ,burguer ,megaphone, search, adress, auris, cupon, heart, gift, home, information, miCuenta, carta, store, helados, farmacia, mascotas, retiro_en_local, bebidas, cafe_y_deli, tiendas}
 
 export default icons

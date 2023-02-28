@@ -1,0 +1,23 @@
+swiper-slide{
+    height: 15vh;
+    background-color: #ececec;
+    border-radius: 8px;
+    padding: 1vw;
+}
+
+.mySwiper{
+    margin-left: 2.2vw;
+    margin-top: 2vw;
+}
+
+.img-sliders{
+    width: 60%;
+}
+
+.cont-img-slides{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    padding-right: 5vw;
+}

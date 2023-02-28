@@ -4,6 +4,7 @@ import '../css/interfaz.css'
 import functions from '../utils/menuFunctions'
 import icons from '../utils/icons'
 import CategoriasComida from './categoriasComida'
+import Slider from './slider'
 
 
 
@@ -25,6 +26,7 @@ export default function Interfaz(){
                 </div>
             </section>
             <CategoriasComida/>
+            <Slider/>
         </div>
     )
 }
